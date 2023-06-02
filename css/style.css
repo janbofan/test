@@ -18,8 +18,12 @@ html {
 
   .container {
     display: flex;
+    justify-content: center;
+    gap: 2rem;
   }
   
   article {
     flex: 30%;
+    background-color: white;
+    text-align: center;
   }
