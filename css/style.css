@@ -20,3 +20,6 @@ html {
     display: flex;
   }
   
+  article {
+    flex: 30%;
+  }
