@@ -15,4 +15,8 @@ html {
       linear-gradient(90deg,#88A65E 50%,#BFB35A 0);
     background-size: var(--_s) calc(4*var(--s));
   }
+
+  .container {
+    display: flex;
+  }
   
