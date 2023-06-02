@@ -16,17 +16,20 @@ html {
     background-size: var(--_s) calc(4*var(--s));
   }
 
+  body {
+    min-height: 100svh;
+  }
+  
   .container {
     display: flex;
     justify-content: center;
 
     align-content: end;
     min-height: 100 svh;
-    outline: #88A65E;
   }
   
   article {
-    flex: 30%;
+    flex: 0;
     height: 100%;
     background-color: red;
     text-align: center;
