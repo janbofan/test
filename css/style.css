@@ -21,6 +21,7 @@ html {
     justify-content: center;
     gap: 1%;
     align-content: end;
+    outline: #88A65E;
   }
   
   article {
