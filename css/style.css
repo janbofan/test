@@ -19,7 +19,7 @@ html {
   .container {
     display: flex;
     justify-content: center;
-    gap: 1%;
+
     align-content: end;
     min-height: 100 svh;
     outline: #88A65E;
