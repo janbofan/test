@@ -27,6 +27,7 @@ html {
   
   article {
     flex: 30%;
+    height: 100%;
     background-color: red;
     text-align: center;
   }
