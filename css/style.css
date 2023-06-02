@@ -19,7 +19,8 @@ html {
   .container {
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 1%;
+    align-content: end;
   }
   
   article {
